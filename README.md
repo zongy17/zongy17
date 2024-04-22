@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on high performance computing (HPC) and large-scale scientific computing.
+- 📫 How to reach me: zong-y21@mails.tsinghua.edu.cn
+- 🌱 I’m currently learning algebraic multigrid
+
 <!--
 **zongy17/zongy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
