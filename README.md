@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on high performance computing (HPC) and large-scale scientific computing.
 - 📫 How to reach me: zong-y21@mails.tsinghua.edu.cn / zongy17@126.com
 - 🌱 I’m currently learning algebraic multigrid
-- ⚡ Fun fact: I have another account of gitee (https://gitee.com/zongy17, similar to github, but more accessible in China).
+- ⚡ I have another account of gitee (https://gitee.com/zongy17, similar to github, but more accessible in China).
  
 <!--
 **zongy17/zongy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
